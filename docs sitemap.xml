@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://docs.tavus.io/sections/introduction</loc>
+  <lastmod>2025-05-24T06:50:21+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://docs.tavus.io/api-reference/phoenix-replica-model/create-replica</loc>
+  <lastmod>2025-05-24T06:50:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.tavus.io/sections/guides/api-key-guide</loc>
+  <lastmod>2025-05-24T06:50:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.tavus.io/sections/replicas/overview</loc>
+  <lastmod>2025-05-24T06:50:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.tavus.io/sections/replicas/replica-training</loc>
+  <lastmod>2025-05-24T06:50:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.tavus.io/sections/guides/replica-training-guide</loc>
+  <lastmod>2025-05-24T06:50:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.tavus.io/sections/replicas/stock-replicas</loc>
+  <lastmod>2025-05-24T06:50:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.tavus.io/sections/replicas/personal-replicas</loc>
+  <lastmod>2025-05-24T06:50:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.tavus.io/sections/replicas/language-support</loc>
+  <lastmod>2025-05-24T06:50:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.tavus.io/sections/video-generation/overview</loc>
+  <lastmod>2025-05-24T06:50:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.tavus.io/sections/video-generation/replica-selection</loc>
+  <lastmod>2025-05-24T06:50:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.tavus.io/sections/video-generation/scripting-prompting</loc>
+  <lastmod>2025-05-24T06:50:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.tavus.io/sections/conversational-video-interface/cvi-overview</loc>
+  <lastmod>2025-05-24T06:50:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.tavus.io/sections/conversational-video-interface/quick-start</loc>
+  <lastmod>2025-05-24T06:50:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.tavus.io/sections/conversational-video-interface/creating-a-conversation</loc>
+  <lastmod>2025-05-24T06:50:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.tavus.io/sections/conversational-video-interface/creating-a-persona</loc>
+  <lastmod>2025-05-24T06:50:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.tavus.io/sections/conversational-video-interface/layers-and-modes-overview</loc>
+  <lastmod>2025-05-24T06:50:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.tavus.io/sections/conversational-video-interface/stock-personas</loc>
+  <lastmod>2025-05-24T06:50:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.tavus.io/sections/conversational-video-interface/using-replica-in-cvi</loc>
+  <lastmod>2025-05-24T06:50:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.tavus.io/sections/conversational-video-interface/sparrow-0-turn-taking</loc>
+  <lastmod>2025-05-24T06:50:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.tavus.io/sections/conversational-video-interface/raven</loc>
+  <lastmod>2025-05-24T06:50:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.tavus.io/sections/conversational-video-interface/faq</loc>
+  <lastmod>2025-05-24T06:50:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.tavus.io/sections/lipsync/overview</loc>
+  <lastmod>2025-05-24T06:50:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.tavus.io/sections/troubleshooting/training-video-size</loc>
+  <lastmod>2025-05-24T06:50:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.tavus.io/sections/troubleshooting/consent-statement</loc>
+  <lastmod>2025-05-24T06:50:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.tavus.io/sections/troubleshooting/generated-content-length</loc>
+  <lastmod>2025-05-24T06:50:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.tavus.io/sections/troubleshooting/api-errors</loc>
+  <lastmod>2025-05-24T06:50:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.tavus.io/sections/troubleshooting/api-callbacks</loc>
+  <lastmod>2025-05-24T06:50:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.tavus.io/sections/changelog/changelog</loc>
+  <lastmod>2025-05-24T06:50:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.tavus.io/api-reference/phoenix-replica-model/get-replica</loc>
+  <lastmod>2025-05-24T06:50:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.tavus.io/api-reference/phoenix-replica-model/get-replicas</loc>
+  <lastmod>2025-05-24T06:50:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.tavus.io/api-reference/phoenix-replica-model/delete-replica</loc>
+  <lastmod>2025-05-24T06:50:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.tavus.io/api-reference/phoenix-replica-model/patch-replica-name</loc>
+  <lastmod>2025-05-24T06:50:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.tavus.io/api-reference/video-request/create-video</loc>
+  <lastmod>2025-05-24T06:50:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.tavus.io/api-reference/video-request/get-video</loc>
+  <lastmod>2025-05-24T06:50:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.tavus.io/api-reference/video-request/get-videos</loc>
+  <lastmod>2025-05-24T06:50:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.tavus.io/api-reference/video-request/delete-video</loc>
+  <lastmod>2025-05-24T06:50:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.tavus.io/api-reference/video-request/patch-video-name</loc>
+  <lastmod>2025-05-24T06:50:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.tavus.io/api-reference/conversations/create-conversation</loc>
+  <lastmod>2025-05-24T06:50:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.tavus.io/api-reference/conversations/get-conversation</loc>
+  <lastmod>2025-05-24T06:50:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.tavus.io/api-reference/conversations/get-conversations</loc>
+  <lastmod>2025-05-24T06:50:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.tavus.io/api-reference/conversations/end-conversation</loc>
+  <lastmod>2025-05-24T06:50:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.tavus.io/api-reference/conversations/delete-conversation</loc>
+  <lastmod>2025-05-24T06:50:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.tavus.io/api-reference/personas/create-persona</loc>
+  <lastmod>2025-05-24T06:50:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.tavus.io/api-reference/personas/get-persona</loc>
+  <lastmod>2025-05-24T06:50:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.tavus.io/api-reference/personas/get-personas</loc>
+  <lastmod>2025-05-24T06:50:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.tavus.io/api-reference/personas/patch-persona</loc>
+  <lastmod>2025-05-24T06:50:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.tavus.io/api-reference/personas/delete-persona</loc>
+  <lastmod>2025-05-24T06:50:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.tavus.io/api-reference/lipsync/create-lipsync</loc>
+  <lastmod>2025-05-24T06:50:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.tavus.io/api-reference/lipsync/get-lipsync</loc>
+  <lastmod>2025-05-24T06:50:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.tavus.io/api-reference/lipsync/get-lipsync-list</loc>
+  <lastmod>2025-05-24T06:50:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.tavus.io/api-reference/lipsync/delete-lipsync</loc>
+  <lastmod>2025-05-24T06:50:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.tavus.io/api-reference/speech/create-speech</loc>
+  <lastmod>2025-05-24T06:50:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.tavus.io/api-reference/speech/get-speech</loc>
+  <lastmod>2025-05-24T06:50:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.tavus.io/api-reference/speech/get-speech-list</loc>
+  <lastmod>2025-05-24T06:50:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.tavus.io/api-reference/speech/delete-speech</loc>
+  <lastmod>2025-05-24T06:50:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.tavus.io/api-reference/speech/patch-speech-name</loc>
+  <lastmod>2025-05-24T06:50:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.tavus.io/sections/conversational-video-interface/custom-llm-onboarding</loc>
+  <lastmod>2025-05-24T06:50:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.tavus.io/sections/event-schemas/conversation-perception-tool-call</loc>
+  <lastmod>2025-05-24T06:50:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.tavus.io/sections/event-schemas/conversation-perception-analysis</loc>
+  <lastmod>2025-05-24T06:50:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.tavus.io/sections/conversational-video-interface/live-interactions</loc>
+  <lastmod>2025-05-24T06:50:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.tavus.io/sections/conversational-video-interface/recording-rooms</loc>
+  <lastmod>2025-05-24T06:50:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.tavus.io/sections/conversational-video-interface/custom-tts-onboarding</loc>
+  <lastmod>2025-05-24T06:50:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.tavus.io/sections/conversational-video-interface/server-to-server</loc>
+  <lastmod>2025-05-24T06:50:21+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.tavus.io/sections/conversational-video-interface/livekit-agent</loc>
+  <lastmod>2025-05-24T06:50:21+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.tavus.io/sections/event-schemas/conversation-echo</loc>
+  <lastmod>2025-05-24T06:50:21+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.tavus.io/sections/event-schemas/conversation-respond</loc>
+  <lastmod>2025-05-24T06:50:21+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.tavus.io/sections/event-schemas/conversation-sensitivity</loc>
+  <lastmod>2025-05-24T06:50:21+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.tavus.io/sections/event-schemas/conversation-interrupt</loc>
+  <lastmod>2025-05-24T06:50:21+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.tavus.io/sections/event-schemas/conversation-replica-interrupted</loc>
+  <lastmod>2025-05-24T06:50:21+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.tavus.io/sections/event-schemas/conversation-overwrite-context</loc>
+  <lastmod>2025-05-24T06:50:21+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.tavus.io/sections/event-schemas/conversation-utterance</loc>
+  <lastmod>2025-05-24T06:50:21+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.tavus.io/sections/event-schemas/conversation-toolcall</loc>
+  <lastmod>2025-05-24T06:50:21+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.tavus.io/sections/event-schemas/conversation-replica-started-stopped-speaking</loc>
+  <lastmod>2025-05-24T06:50:21+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.tavus.io/sections/event-schemas/conversation-user-started-stopped-speaking</loc>
+  <lastmod>2025-05-24T06:50:21+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.tavus.io/sections/conversational-video-interface/pipecat</loc>
+  <lastmod>2025-05-24T06:50:21+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+
+
+</urlset>
