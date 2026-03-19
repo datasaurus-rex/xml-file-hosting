@@ -1,0 +1,957 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://docs.growthbook.io/</loc>
+  <lastmod>2026-03-19T19:06:44+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/lib</loc>
+  <lastmod>2026-03-19T19:20:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/api</loc>
+  <lastmod>2026-03-19T04:04:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/overview</loc>
+  <lastmod>2026-03-19T13:57:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/quick-start</loc>
+  <lastmod>2026-03-19T14:17:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/app/features</loc>
+  <lastmod>2026-03-19T19:20:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/warehouses</loc>
+  <lastmod>2026-03-19T19:20:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/experiments</loc>
+  <lastmod>2026-03-19T19:20:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/insights</loc>
+  <lastmod>2026-03-19T19:20:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/app/product-analytics</loc>
+  <lastmod>2026-03-18T18:38:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/self-host</loc>
+  <lastmod>2026-03-19T12:08:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/app/api</loc>
+  <lastmod>2026-03-19T19:20:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/app/webhooks</loc>
+  <lastmod>2026-03-19T19:20:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/integrations/mcp</loc>
+  <lastmod>2026-03-19T19:20:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/account/user-permissions</loc>
+  <lastmod>2026-03-19T19:20:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/faq</loc>
+  <lastmod>2026-03-19T19:20:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/guide</loc>
+  <lastmod>2026-03-19T19:20:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/kb/experiments/troubleshooting-experiments</loc>
+  <lastmod>2026-03-18T17:44:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/using</loc>
+  <lastmod>2026-03-19T19:20:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/lib/</loc>
+  <lastmod>2026-03-19T19:20:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/lib/quickstart</loc>
+  <lastmod>2026-03-19T19:20:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/lib/script-tag</loc>
+  <lastmod>2026-03-19T19:20:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/lib/js</loc>
+  <lastmod>2026-03-18T12:05:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/lib/react</loc>
+  <lastmod>2026-03-19T19:20:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/lib/vue</loc>
+  <lastmod>2026-03-19T15:20:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/lib/kotlin</loc>
+  <lastmod>2026-03-19T19:20:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/lib/flutter</loc>
+  <lastmod>2026-03-19T19:20:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/lib/swift</loc>
+  <lastmod>2026-03-19T19:21:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/lib/react-native</loc>
+  <lastmod>2026-03-19T19:21:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/lib/roku</loc>
+  <lastmod>2026-03-19T19:21:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/lib/node</loc>
+  <lastmod>2026-03-19T19:21:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/lib/nextjs</loc>
+  <lastmod>2026-03-19T19:21:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/lib/php</loc>
+  <lastmod>2026-03-19T19:21:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/lib/ruby</loc>
+  <lastmod>2026-03-19T19:21:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/lib/python</loc>
+  <lastmod>2026-03-19T19:21:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/lib/java</loc>
+  <lastmod>2026-03-19T19:21:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/lib/kotlin-jvm</loc>
+  <lastmod>2026-03-19T19:21:02+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/lib/csharp</loc>
+  <lastmod>2026-03-19T19:21:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/lib/go</loc>
+  <lastmod>2026-03-19T19:21:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/lib/rust</loc>
+  <lastmod>2026-03-19T19:21:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/lib/elixir</loc>
+  <lastmod>2026-03-19T19:21:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/lib/edge/cloudflare</loc>
+  <lastmod>2026-03-19T19:21:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/lib/build-your-own</loc>
+  <lastmod>2026-03-19T19:21:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/lib/edge/fastly</loc>
+  <lastmod>2026-03-19T19:21:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/lib/edge/lambda</loc>
+  <lastmod>2026-03-19T19:21:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/app/metrics/legacy</loc>
+  <lastmod>2026-03-19T19:21:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/app/experiment-configuration</loc>
+  <lastmod>2026-03-19T19:21:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/features/targeting</loc>
+  <lastmod>2026-03-19T19:21:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/app/metrics</loc>
+  <lastmod>2026-03-19T19:21:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/app/dimensions</loc>
+  <lastmod>2026-03-19T19:21:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/features/rules</loc>
+  <lastmod>2026-03-18T07:31:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/features/prerequisites</loc>
+  <lastmod>2026-03-19T19:21:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/features/basics</loc>
+  <lastmod>2026-03-19T19:21:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/feature-flag-experiments</loc>
+  <lastmod>2026-03-19T19:21:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/guide/GA4-google-analytics</loc>
+  <lastmod>2026-03-19T12:02:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/app/datasources</loc>
+  <lastmod>2026-03-19T19:21:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/app/experiment-results</loc>
+  <lastmod>2026-03-19T19:21:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/features/environments</loc>
+  <lastmod>2026-03-19T19:21:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/features/safe-rollouts</loc>
+  <lastmod>2026-03-19T19:21:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/features/publishing-and-approval-flows</loc>
+  <lastmod>2026-03-19T19:21:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/features/stale-detection</loc>
+  <lastmod>2026-03-19T19:21:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/features/code-references</loc>
+  <lastmod>2026-03-19T19:21:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/features/diagnostics</loc>
+  <lastmod>2026-03-19T19:21:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/features/custom-hooks</loc>
+  <lastmod>2026-03-19T15:02:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/warehouses/athena</loc>
+  <lastmod>2026-03-19T19:21:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/guide/bigquery</loc>
+  <lastmod>2026-03-19T19:21:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/warehouses/clickhouse</loc>
+  <lastmod>2026-03-19T19:21:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/warehouses/databricks</loc>
+  <lastmod>2026-03-19T19:21:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/warehouses/mixpanel</loc>
+  <lastmod>2026-03-18T18:38:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/warehouses/ms-sql-or-sql-server</loc>
+  <lastmod>2026-03-19T19:21:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/warehouses/mysql-or-mariadb</loc>
+  <lastmod>2026-03-19T19:21:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/warehouses/postgres</loc>
+  <lastmod>2026-03-19T19:21:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/warehouses/vertica</loc>
+  <lastmod>2026-03-19T19:21:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/warehouses/prestodb-or-trino</loc>
+  <lastmod>2026-03-19T19:21:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/warehouses/redshift</loc>
+  <lastmod>2026-03-19T19:21:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/warehouses/snowflake</loc>
+  <lastmod>2026-03-19T19:21:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/app/query-optimization</loc>
+  <lastmod>2026-03-19T19:21:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/app/sql-templates</loc>
+  <lastmod>2026-03-19T19:21:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/app/data-pipeline</loc>
+  <lastmod>2026-03-19T19:21:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/app/managed-warehouse</loc>
+  <lastmod>2026-03-19T19:21:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/app/event-forwarder</loc>
+  <lastmod>2026-03-19T19:21:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/official-resources</loc>
+  <lastmod>2026-03-19T19:21:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/app/visual</loc>
+  <lastmod>2026-03-19T06:56:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/app/url-redirects</loc>
+  <lastmod>2026-03-19T19:21:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/running-experiments/experiment-templates</loc>
+  <lastmod>2026-03-19T19:21:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/app/experiment-time-series</loc>
+  <lastmod>2026-03-19T19:21:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/app/experiment-decisions</loc>
+  <lastmod>2026-03-19T19:21:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/app/making-experiment-changes</loc>
+  <lastmod>2026-03-19T19:21:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/bandits/overview</loc>
+  <lastmod>2026-03-19T19:21:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/app/holdouts</loc>
+  <lastmod>2026-03-19T19:21:13+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/app/sticky-bucketing</loc>
+  <lastmod>2026-03-19T19:21:13+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/experimentation-analysis/cluster-experiments</loc>
+  <lastmod>2026-03-19T19:21:13+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/app/pre-launch-checklist</loc>
+  <lastmod>2026-03-19T19:21:13+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/app/experiment-dashboards</loc>
+  <lastmod>2026-03-19T19:21:13+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/app/importing-experiments</loc>
+  <lastmod>2026-03-19T19:21:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/statistics/overview</loc>
+  <lastmod>2026-03-19T04:30:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/open-guide-to-ab-testing.v1.0.pdf</loc>
+  <lastmod>2026-03-19T14:21:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/assets/files/open-guide-to-ab-testing.v1.0-228e9312b957a9716766cd8887b18a11.pdf</loc>
+  <lastmod>2026-03-19T19:21:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/kb/experiments/holdouts</loc>
+  <lastmod>2026-03-19T19:21:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/statistics/power</loc>
+  <lastmod>2026-03-19T19:21:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/self-host/env</loc>
+  <lastmod>2026-03-19T19:21:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/self-host/production</loc>
+  <lastmod>2026-03-19T19:21:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/self-host/kubernetes</loc>
+  <lastmod>2026-03-19T19:21:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/self-host/cdn</loc>
+  <lastmod>2026-03-19T19:21:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/self-host/proxy</loc>
+  <lastmod>2026-03-19T19:21:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/self-host/remote-evaluation</loc>
+  <lastmod>2026-03-19T19:21:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/self-host/ferretdb</loc>
+  <lastmod>2026-03-19T19:21:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/self-host/config</loc>
+  <lastmod>2026-03-19T19:21:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/api/</loc>
+  <lastmod>2026-03-19T04:04:31+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/app/webhooks/event-webhooks</loc>
+  <lastmod>2026-03-19T19:21:17+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/app/webhooks/sdk-webhooks</loc>
+  <lastmod>2026-03-19T19:12:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/app/webhooks/global-sdk-webhooks</loc>
+  <lastmod>2026-03-19T19:21:17+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/integrations/slack</loc>
+  <lastmod>2026-03-19T19:21:17+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/integrations/discord</loc>
+  <lastmod>2026-03-19T19:21:17+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/integrations/vercel</loc>
+  <lastmod>2026-03-19T19:21:17+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/integrations/framer</loc>
+  <lastmod>2026-03-19T19:21:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/integrations/datadog</loc>
+  <lastmod>2026-03-19T19:21:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/integrations/github-metrics</loc>
+  <lastmod>2026-03-19T19:21:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/tools/chrome-extension</loc>
+  <lastmod>2026-03-19T19:21:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/tools/vscode-extension</loc>
+  <lastmod>2026-03-19T19:21:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/tools/cli</loc>
+  <lastmod>2026-03-19T19:21:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/integrations/clarity</loc>
+  <lastmod>2026-03-19T19:21:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/integrations/jira</loc>
+  <lastmod>2026-03-19T19:21:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/integrations/ai</loc>
+  <lastmod>2026-03-19T19:21:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/sso</loc>
+  <lastmod>2026-03-19T19:21:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/integrations/scim</loc>
+  <lastmod>2026-03-19T19:21:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/compliance</loc>
+  <lastmod>2026-03-19T19:21:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/account/audit-logs</loc>
+  <lastmod>2026-03-19T19:21:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/guide/migrate-from-statsig</loc>
+  <lastmod>2026-03-19T19:21:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/guide/sanity</loc>
+  <lastmod>2026-03-19T19:21:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/guide/strapi</loc>
+  <lastmod>2026-03-19T19:21:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/guide/contentful</loc>
+  <lastmod>2026-03-19T19:21:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/guide/deno-hono</loc>
+  <lastmod>2026-03-19T19:21:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/guide/express-js</loc>
+  <lastmod>2026-03-19T19:21:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/guide/nextjs-and-vercel-feature-flags</loc>
+  <lastmod>2026-03-19T19:21:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/guide/nextjs-app-router</loc>
+  <lastmod>2026-03-19T19:21:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/guide/nextjs-and-growthbook</loc>
+  <lastmod>2026-03-19T19:21:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/guide/create-react-app-and-growthbook</loc>
+  <lastmod>2026-03-19T19:21:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/guide/google-tag-manager-and-growthbook</loc>
+  <lastmod>2026-03-19T19:21:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/integrations/shopify</loc>
+  <lastmod>2026-03-19T19:21:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/integrations/webflow</loc>
+  <lastmod>2026-03-19T19:21:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/integrations/wordpress</loc>
+  <lastmod>2026-03-19T19:21:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/guide/rudderstack-and-nextjs-with-growthbook</loc>
+  <lastmod>2026-03-19T19:21:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/guide/importing</loc>
+  <lastmod>2026-03-19T19:21:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/kb/experiments/aa-tests</loc>
+  <lastmod>2026-03-19T19:21:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/kb/experiments/carryover-bias</loc>
+  <lastmod>2026-03-19T19:21:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/kb/google-analytics/google-big-query-bq-troubleshooting</loc>
+  <lastmod>2026-03-19T19:21:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/kb/metrics/fact-metric-optimization</loc>
+  <lastmod>2026-03-19T19:21:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/kb/glossary</loc>
+  <lastmod>2026-03-19T19:21:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/using/fundamentals</loc>
+  <lastmod>2026-03-19T19:21:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/using/experimentation-best-practices</loc>
+  <lastmod>2026-03-19T19:21:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/using/experimentation-problems</loc>
+  <lastmod>2026-03-19T18:04:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/using/product-development</loc>
+  <lastmod>2026-03-19T19:21:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/using/experimenting</loc>
+  <lastmod>2026-03-19T03:07:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/using/growthbook-best-practices</loc>
+  <lastmod>2026-03-19T19:21:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/using/security</loc>
+  <lastmod>2026-03-19T19:21:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/using/programs</loc>
+  <lastmod>2026-03-19T19:21:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/lib/edge/other</loc>
+  <lastmod>2026-03-19T19:21:27+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/app/metrics/examples</loc>
+  <lastmod>2026-03-19T19:21:27+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/statistics/quantile</loc>
+  <lastmod>2026-03-19T19:21:28+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/statistics/details</loc>
+  <lastmod>2026-03-19T19:21:28+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/event-trackers/custom</loc>
+  <lastmod>2026-03-19T19:21:28+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/event-trackers/amplitude</loc>
+  <lastmod>2026-03-19T19:21:28+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/event-trackers/clevertap</loc>
+  <lastmod>2026-03-19T19:21:29+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/event-trackers/firebase</loc>
+  <lastmod>2026-03-19T19:21:29+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/event-trackers/freshpaint</loc>
+  <lastmod>2026-03-19T19:21:29+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/event-trackers/fullstory</loc>
+  <lastmod>2026-03-19T19:21:29+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/event-trackers/heap</loc>
+  <lastmod>2026-03-19T19:21:29+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/event-trackers/jitsu</loc>
+  <lastmod>2026-03-19T19:21:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/event-trackers/keenio</loc>
+  <lastmod>2026-03-19T19:21:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/guide/matomo</loc>
+  <lastmod>2026-03-19T19:21:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/guide/mixpanel</loc>
+  <lastmod>2026-03-19T19:21:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/event-trackers/mparticle</loc>
+  <lastmod>2026-03-19T19:21:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/guide/rudderstack</loc>
+  <lastmod>2026-03-19T19:21:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/event-trackers/segment</loc>
+  <lastmod>2026-03-19T19:21:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/event-trackers/snowplow</loc>
+  <lastmod>2026-03-19T19:21:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/kb/google-analytics/google-analytics-ga4-troubleshooting</loc>
+  <lastmod>2026-03-19T19:21:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/kb/google-analytics/google-tag-manager-gtm-troubleshooting</loc>
+  <lastmod>2026-03-19T15:57:28+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/bandits/config</loc>
+  <lastmod>2026-03-19T02:12:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/bandits/results</loc>
+  <lastmod>2026-03-19T19:21:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/statistics/cuped</loc>
+  <lastmod>2026-03-19T19:21:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/statistics/sequential</loc>
+  <lastmod>2026-03-19T19:21:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/statistics/multiple-corrections</loc>
+  <lastmod>2026-03-19T19:21:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/statistics/aggregation</loc>
+  <lastmod>2026-03-19T19:21:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/statistics/power-technical</loc>
+  <lastmod>2026-03-19T19:21:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/app/webhooks/event-webhooks/events</loc>
+  <lastmod>2026-03-19T19:21:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/guide/</loc>
+  <lastmod>2026-03-19T19:20:58+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/statistics/cuped-technical</loc>
+  <lastmod>2026-03-19T19:21:33+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.growthbook.io/statistics/post-stratification</loc>
+  <lastmod>2026-03-19T19:21:34+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+
+
+</urlset>
